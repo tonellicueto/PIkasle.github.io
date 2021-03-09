@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- PIKASLE -->
+
+  <url>
+   <loc>https://pikasle.com/index.html</loc>
+   <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://pikasle.com/pikasle_es.html"/>
+   <xhtml:link
+              rel="alternate"
+              hreflang="eu"
+              href="https://pikasle.com/pikasle_eu.html"/>
+  </url>
+
+  <url>
+   <loc>https://pikasle.com/pikasle_es.html</loc>
+   <xhtml:link
+              rel="alternate"
+              hreflang="eu"
+              href="https://pikasle.com/pikasle_eus.html"/>
+   <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://pikasle.com/index.html"/>
+  </url>
+
+  <url>
+   <loc>https://pikasle.com/pikasle_eus.html</loc>
+   <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://pikasle.com/pikasle_es.html"/>
+   <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://pikasle.com/index.html"/>
+  </url>
+
+</urlset>
