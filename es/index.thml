@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <meta http-equiv="Refresh" content="0; url=../index_es.html" />
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/style.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <p style="text-align:center;font-variant: small-caps;">Esta página ya no existe. <a href="../index_es.html">Por favor sigue este link.</a></p>
+  </body>
+</html>
